@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage Release"
+  short_description: "Implement a stage and archive the release"
+  default_prompt: "Use $stage-release to continue the next project stage and archive the release."

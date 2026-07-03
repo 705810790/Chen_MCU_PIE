@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Onboard"
+  short_description: "Annotate code and update quick-start README"
+  default_prompt: "Use $code-onboard to annotate this project and update its quick-start README."
