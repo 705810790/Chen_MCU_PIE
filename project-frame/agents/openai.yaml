@@ -1,4 +1,0 @@
-interface:
-  display_name: "Project Frame"
-  short_description: "Turn requirements into a living project frame"
-  default_prompt: "Use $project-frame to turn my project requirements into a living project framework."
