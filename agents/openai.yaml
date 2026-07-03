@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chen MCU PIE"
+  short_description: "MCU project implementation engineer workflow"
+  default_prompt: "Use $chen-mcu-pie to drive my project from requirements to staged implementation and onboarding docs."
