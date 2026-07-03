@@ -1,6 +1,8 @@
 # Chen_MCU_PIE(MCU project implementation engineer)
-
+Chen_MCU_PIE 是一组面向 AI 项目推进流程的 Codex Skills 组合包。
 Chen_MCU_PIE 的中文名是 **MCU项目实施工程师**。它是一个面向 AI 项目推进流程的组合 Codex Skill，用一个统一入口覆盖三个连续能力：
+
+它可以对项目需求进行系统化的展开，将大型项目划分为一个一个的小阶段，然后每完成一个阶段就进行git版本控制，完美适配大型项目。收录 `project-frame`、`stage-release`、`code-onboard` 三个独立 Skill，用于把一个工程从“需求整理”推进到“阶段实现”，再沉淀成“可接手、可维护、可归档”的代码项目。
 
 ```text
 需求与资料 → 动态项目框架 → 阶段实施和版本归档 → 代码注释和快速上手 README
